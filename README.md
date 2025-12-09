@@ -8,8 +8,8 @@ This repository was created via an AI agent using GitHub tools for testing serve
 - Owner: [toqeer-yasir](https://github.com/toqeer-yasir)
 
 ## Clone it
-\`\`\`bash
-git clone https://github.com/toqeer-yasir/github-server-test.git
-\`\`\`
+``` bash
+git clone https://github.com/toqeer-yasir/test-github.git
+```
 
 Happy testing! 🚀
